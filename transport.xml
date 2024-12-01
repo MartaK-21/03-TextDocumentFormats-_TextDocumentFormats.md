@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportation>
+    <vehicle name="Car" type="land" fuel="gasoline">
+        <name>Sedan</name>
+        <brand>Ford</brand>
+        <capacity>5</capacity>
+        <max_speed unit="km/h">180</max_speed>
+    </vehicle>
+
+    <vehicle name="Bicycle" type="land" fuel="none">
+        <name>Mountain Bike</name>
+        <brand>Giant</brand>
+        <capacity>1</capacity>
+        <max_speed unit="km/h">40</max_speed>
+    </vehicle>
+
+    <vehicle name="Airplane" type="air" fuel="jet fuel">
+        <name>Boeing 747</name>
+        <brand>Boeing</brand>
+        <capacity>366</capacity>
+        <max_speed unit="km/h">900</max_speed>
+    </vehicle>
+</transportation>

@@ -1,0 +1,11 @@
+{
+    "ticket_id": "123456789",
+    "passenger_name": "John Doe",
+    "departure": {
+      "station": "London King's Cross",
+      "time": "2024-12-01T09:30:00",
+      "platform": 5
+    }
+
+}
+  

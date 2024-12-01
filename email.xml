@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+    <email>
+        <sender>johnlenon@gmail.com</sender>
+        <recipient>annesmith@gmail.com</recipient>
+        <subject>Meeting</subject>
+        <messagebody>Our meeting will take place tommorow in my office as planned</messagebody>
+    </email>
+</emails>
